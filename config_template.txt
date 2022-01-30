@@ -1,0 +1,6 @@
+{
+    "api_key": "${API_KEY}",
+    "cookie": "${COOKIE}",
+    "session_token": "${SESSION_TOKEN}",
+    "user_lang": "en-US"
+}
